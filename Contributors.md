@@ -1,5 +1,9 @@
 ## Contributors Details
 
+Name; [Elias Poniridis](https://github.com/Creperi)
+Place: Greece <br/>
+About: Student <br/>
+
 Name: [Tej Grover](https://github.com/tejgrover) <br/>
 Place: India <br/>
 About: newbie developer <br/>
